@@ -1,2 +1,10 @@
-# HateCommentDetection_CSE438_Research
-The ubiquity of toxic content on online platforms and its alarming increase due to the widespread targeting of individuals with hateful content has become a pressing issue of this modern era. Hence, it has become incredibly urgent to develop effective hate speech detection methods in order to combat this problem.
+# Hate Comment Classification Comperative Study
+
+Youtube Link: 
+
+Group: Matrix
+
+Mobashra Abeer	19201092
+Tirthendu Prosad Chakravorty	19201036
+Khan Abrar Shams	19201052
+Shaiane Prema Baroi	21101098
