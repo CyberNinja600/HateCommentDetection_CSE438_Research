@@ -1,6 +1,6 @@
 # Hate Comment Classification Comperative Study
 
-Youtube Link: 
+Youtube Link: <https://www.youtube.com/watch?v=xredGLwDQDg>
 
 Group: Matrix
 1. Mobashra Abeer    19201092 
