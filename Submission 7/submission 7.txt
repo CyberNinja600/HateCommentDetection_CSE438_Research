@@ -1,0 +1,37 @@
+Overleaf link with edit access to ST, RA and my gmail.
+https://www.overleaf.com/project/645a1b41086b7d37f081313f
+
+Unlisted YouTube video:
+https://www.youtube.com/watch?v=xredGLwDQDg
+
+Conference submitted paper / paper submission / login Link:
+https://softconf.com/n/sigdial2023/
+
+Paper title:
+A Comparative Study: Hate Speech Detection Models
+
+Paper presentation (anyone can view without login):
+https://docs.google.com/presentation/d/1sdRVIq2sFY-FP5V59lqAzVsK5-jir5pN/edit?usp=sharing&ouid=113195489985064279579&rtpof=true&sd=true
+
+Paper submission date (to workshop/conference):
+11 May 2023
+
+Paper submission ID: (received) from conference/workshop
+22
+
+Conference Name:
+24th Meeting of the Special Interest Group on Discourse and Dialogue (SIGDIAL)
+
+Conference URL:
+https://2023.sigdial.org/2023/02/22/sigdial-call-for-papers/
+
+Group Number:
+3
+
+Group Name: Matrix
+
+Group Members:
+Mobashra Abeer    19201092 
+Tirthendu Prosad Chakravorty 19201036
+Khan Abrar Shams   19201052 
+Shaiane Prema Baroi  21101098
